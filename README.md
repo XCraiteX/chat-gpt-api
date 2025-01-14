@@ -2,12 +2,6 @@
 
 **A simple Python script for interacting with the OpenAI ChatGPT API. This script sends user input to the API and retrieves a response from the language model.**
 
-<p>
-  <img src="https://dogukanakkaya.gallerycdn.vsassets.io/extensions/dogukanakkaya/chatgpt-code/0.1.3/1671302041242/Microsoft.VisualStudio.Services.Icons.Default" height="40" style="vertical-align: middle;"> 
-  <strong style="font-size: 24px;">ChatGPT API Python Script</strong>
-</p>
-
-
 ## Stack
 
 - Python3
