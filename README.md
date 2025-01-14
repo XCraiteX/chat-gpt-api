@@ -1,7 +1,7 @@
 
 <div style="display: flex; align-items: center;">
     <img src="https://dogukanakkaya.gallerycdn.vsassets.io/extensions/dogukanakkaya/chatgpt-code/0.1.3/1671302041242/Microsoft.VisualStudio.Services.Icons.Default" height="50">
-    <span style="font-size: 2.2em; font-weight: bold; margin-left: 12px">ChatGPT API | Python</span>
+    <h1>ChatGPT API | Python</h1>
 </div>
 
 ---
