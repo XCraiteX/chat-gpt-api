@@ -1,4 +1,4 @@
-# <h1>ChatGPT API | Python</h1>
+# ChatGPT API | Python
 
 <br>
 
