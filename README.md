@@ -1,10 +1,5 @@
+# <h1>ChatGPT API | Python</h1>
 
-<div style="display: flex; align-items: center;">
-    <img src="https://dogukanakkaya.gallerycdn.vsassets.io/extensions/dogukanakkaya/chatgpt-code/0.1.3/1671302041242/Microsoft.VisualStudio.Services.Icons.Default" height="50">
-    <h1>ChatGPT API | Python</h1>
-</div>
-
----
 <br>
 
 **A simple Python script for interacting with the OpenAI ChatGPT API. This script sends user input to the API and retrieves a response from the language model.**
