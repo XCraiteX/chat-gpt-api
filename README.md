@@ -1,7 +1,5 @@
 # ChatGPT API | Python
 
-<br>
-
 **A simple Python script for interacting with the OpenAI ChatGPT API. This script sends user input to the API and retrieves a response from the language model.**
 
 ## Stack
